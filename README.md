@@ -1,2 +1,3 @@
 # ashutosh-demo
-this is my first sample git repository
+This is my first sample git repository
+By Ashutoshpatel1802

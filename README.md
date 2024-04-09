@@ -1,2 +1,2 @@
 # ashutosh-demo
-First sample git repository
+this is my first sample git repository
